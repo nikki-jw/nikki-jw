@@ -2,7 +2,7 @@
 
 ### My Name is Nikki Waelkens
 
-![data gif](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
+<img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="150">
 
 - ✌🏼 I’m currently working on my final Coder Academy Assignment
 - 👯 I’m looking to collaborate on any creative projects (I love to learn)
